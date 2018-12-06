@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1464775715 source:c:\codeblock\c++\myliste\myliste.c
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"myliste.h"
+
+1464666881 c:\codeblock\c++\myliste\myliste.h
+
+1464667365 source:c:\codeblock\c++\myliste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myliste.h"
+
+1464667365 source:c:\codeblock\c\projet\myliste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myliste.h"
+
+1464666881 c:\codeblock\c\projet\myliste\myliste.h
+
+1466277971 source:c:\codeblock\c\projet\myliste\myliste.c
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"myliste.h"
+
+1464667366 source:c:\users\dell\desktop\projet\myliste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myliste.h"
+
+1464666882 c:\users\dell\desktop\projet\myliste\myliste.h
+
+1466277972 source:c:\users\dell\desktop\projet\myliste\myliste.c
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"myliste.h"
+
+1464667366 source:e:\old hassona\hassona\projet\myliste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myliste.h"
+
+1464666882 e:\old hassona\hassona\projet\myliste\myliste.h
+
+1466277972 source:e:\old hassona\hassona\projet\myliste\myliste.c
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"myliste.h"
+
